@@ -1,9 +1,10 @@
-# nuevo readme versión 1.7
+# nuevo readme versión 1.8 master
 # versión 2 feature
 # new line
 # Getting Started with Create React App
 # segunda linea
 # segunda  versión de rama feature
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
