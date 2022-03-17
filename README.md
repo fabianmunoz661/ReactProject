@@ -1,4 +1,5 @@
 # nuevo readme versión 1.7
+# versión 2 feature
 # new line
 # Getting Started with Create React App
 # segunda linea
