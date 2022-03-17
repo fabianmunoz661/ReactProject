@@ -1,1 +1,1 @@
-soy un archivo v1.1
+soy un archivo v1.2
