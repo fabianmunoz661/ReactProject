@@ -4,6 +4,7 @@
 # Getting Started with Create React App
 # segunda linea
 # segunda  versión de rama feature
+# versión feature-02
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
